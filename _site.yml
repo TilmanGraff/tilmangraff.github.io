@@ -1,7 +1,7 @@
 name: "Tilman Graff"
 output_dir: "."
 navbar:
-  title: "Tilman Graff"
+  title: "Home"
   left:
     - text: "Research"
       href: research.html
