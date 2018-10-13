@@ -16,4 +16,6 @@ I am interested in the effects of space on economic networks, development, and t
 
 I love coding (mostly R) and rowing (exclusively bowside).
 
-My CV can be found [here](files/CV.pdf).
+My CV can be found [here](files/CV.pdf), my research is listed [here](research.html)
+
+
