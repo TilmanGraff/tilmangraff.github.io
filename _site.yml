@@ -1,0 +1,19 @@
+name: "Tilman Graff"
+output_dir: "."
+navbar:
+  title: "Tilman Graff"
+  left:
+    - text: "Research"
+      href: research.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:tgraff@princeton.edu
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/TilmanGraff
+    - icon: fa-github fa-lg
+      href: http://github.com/tilmangraff
+output:
+  html_document:
+    theme: simplex
+    css: 'style.css'
+---
