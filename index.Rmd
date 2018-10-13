@@ -7,9 +7,7 @@ output: html_document
 
 <br>
 Welcome to my website!
-<<<<<<< HEAD
 
+Test
 
-=======
->>>>>>> 92fd45e4baa28fa5014cfd6ba22d277d39a30248
 My CV can be found [here](files/CV.pdf).
