@@ -17,5 +17,5 @@ output:
     theme: simplex
     css: 'style.css'
     includes:
-       in_header: google4ffa861dbdb772f4.html
+       in_header: GA_Script.html
 ---
