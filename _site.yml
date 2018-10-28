@@ -16,4 +16,6 @@ output:
   html_document:
     theme: simplex
     css: 'style.css'
+    includes:
+       in_header: google45c8d6f9c602375a.html
 ---
