@@ -18,6 +18,6 @@ I am interested in the effects of space on economic networks, development, and t
 
 I love coding (mostly in R) and visualising patterns in large datasets. Other things I am enthusiastic about include investigative journalism, modern art, and mediocre rowing.
 
-My CV can be found [here](files/CV_RA.pdf), my research is listed [here](research.html)
+My CV can be found [here](files/CV_RA.pdf), my research is listed [here](research.html).
 
 
