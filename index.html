@@ -22,9 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-128266466-1"></script>
 <script>
@@ -82,9 +81,7 @@ h6 {
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -109,6 +106,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -123,7 +123,6 @@ body {
   padding-top: 46px;
   margin-top: -46px;
 }
-
 .section h2 {
   padding-top: 46px;
   margin-top: -46px;
@@ -143,6 +142,43 @@ body {
 .section h6 {
   padding-top: 46px;
   margin-top: -46px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -164,19 +200,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -230,13 +332,17 @@ $(document).ready(function () {
 </div>
 
 
-<p><link rel="stylesheet" href="styles.css" type="text/css"> <link rel="google-site-verification" href="google45c8d6f9c602375a.html" type="html" /> <meta name="google-site-verification" content="5HXOknnq4tGjiIzBgMVfGOH2RGjRswNKyrVcQm4JOZ0" /> <img src="images/tilman.jpg" style="width:40%; margin-right: 20px; margin-top: 20px" align="left"></p>
+<link rel="stylesheet" href="styles.css" type="text/css"> <link rel="google-site-verification" href="google45c8d6f9c602375a.html" type="html" /> <meta name="google-site-verification" content="5HXOknnq4tGjiIzBgMVfGOH2RGjRswNKyrVcQm4JOZ0" /> <img src="images/tilman.jpg" style="width:40%; margin-right: 20px; margin-top: 20px" align="left">
+<style>
+body {
+text-align: justify}
+</style>
 <p><br></p>
 <p>I am an economist and research specialist at the <a href="https://www.busaracenter.org">Busara Center for Behavioral Economics</a> in Nairobi, Kenya. I work primarily as a research assistant for <a href="http://www.princeton.edu/haushofer/">Johannes Haushofer</a> at Princeton.</p>
 <p>Before moving to Kenya, I completed an MPhil. in Economics at the <a href="https://www.economics.ox.ac.uk">University of Oxford</a>. I also hold a Bsc. in Economics from <a href="https://www.en.econ.uni-muenchen.de/index.html">LMU Munich</a> and a Bsc. in Management and Technology from <a href="https://www.wi.tum.de">TU Munich</a>.</p>
 <p>I am interested in the effects of space on economic networks, development, and trade. I want to understand how human geography and history shape the spatial distribution of economic activity, how development policies propagate through social networks, and why Nairobi’s traffic gets so much worse in rainy season.</p>
 <p>I love coding (mostly in R) and visualising patterns in large datasets. Other things I am enthusiastic about include investigative journalism, modern art, and mediocre rowing.</p>
-<p>My CV can be found <a href="files/CV_RA.pdf">here</a>, my research is listed <a href="research.html">here</a></p>
+<p>My CV can be found <a href="files/CV_RA.pdf">here</a>, my research is listed <a href="research.html">here</a>.</p>
 
 
 
