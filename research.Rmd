@@ -22,4 +22,4 @@ I assess the effciency of transport networks for every country in Africa. Using 
 <br><br>
 3. Egger and Graff (2019). **iv_spatial_HAC**.
 <br>
-Stata package to compute Conley-type standard errors in 2SLS-settings. Available upon request.
+Stata package to compute Conley-type standard errors in 2SLS-settings. *Available upon request*.
