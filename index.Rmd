@@ -13,7 +13,7 @@ text-align: justify}
 </style>
 <br>
 
-I am an economist and research specialist at the [Busara Center for Behavioral Economics](https://www.busaracenter.org) in Nairobi, Kenya. I work primarily as a research assistant for [Johannes Haushofer](http://www.princeton.edu/haushofer/) at Princeton.
+I am an economist and research assistant for [Johannes Haushofer](http://www.princeton.edu/haushofer/) at Princeton University. I am based at the [Busara Center](https://www.busaracenter.org) in Nairobi, Kenya.
 
 Before moving to Kenya, I completed an MPhil. in Economics at the [University of Oxford](https://www.economics.ox.ac.uk). I also hold a Bsc. in Economics from [LMU Munich](https://www.en.econ.uni-muenchen.de/index.html) and a Bsc. in Management and Technology from [TU Munich](https://www.wi.tum.de). 
 
