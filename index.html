@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -33,6 +33,15 @@
 
   gtag('config', 'UA-128266466-1');
 </script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -79,6 +88,7 @@ h6 {
 }
 </style>
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -95,7 +105,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -244,6 +253,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -255,18 +265,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -298,23 +296,20 @@ $(document).ready(function () {
         <li>
   <a href="research.html">Research</a>
 </li>
+<li>
+  <a href="files/CV Graff.pdf">CV</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:tgraff@princeton.edu">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/TilmanGraff">
-    <span class="fa fa-twitter fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="http://github.com/tilmangraff">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-twitter fa-lg"></span>
      
   </a>
 </li>
@@ -332,14 +327,16 @@ $(document).ready(function () {
 </div>
 
 
-<link rel="stylesheet" href="styles.css" type="text/css"> <link rel="google-site-verification" href="google45c8d6f9c602375a.html" type="html" /> <meta name="google-site-verification" content="5HXOknnq4tGjiIzBgMVfGOH2RGjRswNKyrVcQm4JOZ0" /> <img src="images/tilman.jpg" style="width:40%; margin-right: 20px; margin-top: 20px" align="left">
+<link rel="stylesheet" href="styles.css" type="text/css"> <link rel="google-site-verification" href="google45c8d6f9c602375a.html" type="html" />
+<meta name="google-site-verification" content="5HXOknnq4tGjiIzBgMVfGOH2RGjRswNKyrVcQm4JOZ0" />
+<img src="images/tilman.jpg" style="width:40%; margin-right: 20px; margin-top: 20px" align="left">
 <style>
 body {
 text-align: justify}
 </style>
 <p><br></p>
 <p>I am a PhD student in Economics at <a href="https://economics.harvard.edu">Harvard</a>.</p>
-<p>Prior to grad school, I spent two years in Nairobi, Kenya as a research specialist at the <a href="https://busaracenter.org">Busara Center</a>. I  hold an MPhil. in Economics from <a href="https://www.economics.ox.ac.uk">Oxford</a>, a Bsc. in Economics from <a href="https://www.en.econ.uni-muenchen.de/index.html">LMU Munich</a>, and a Bsc. in Management and Technology from <a href="https://www.wi.tum.de">TU Munich</a>.</p>
+<p>Prior to grad school, I spent two years in Nairobi as a research specialist at the the <a href="https://www.busaracenter.org">Busara Center</a>. I hold an MPhil. in Economics at the <a href="https://www.economics.ox.ac.uk">University of Oxford</a>, a Bsc. in Economics from <a href="https://www.en.econ.uni-muenchen.de/index.html">LMU Munich</a>, and a Bsc. in Management and Technology from <a href="https://www.wi.tum.de">TU Munich</a>.</p>
 <p>I am interested in the effects of space on economic networks, development, and trade. I want to understand how human geography and history shape the spatial distribution of economic activity, how small-scale regional exchange aggregates into global trade systems, and why Nairobi’s traffic gets so much worse in rainy season.</p>
 <p>I love coding (mostly in R) and visualising patterns in large datasets. Other things I am enthusiastic about include investigative journalism, modern art, and mediocre rowing.</p>
 <p>My CV can be found <a href="files/CV%20Graff.pdf">here</a>, my research is listed <a href="research.html">here</a>.</p>
@@ -353,7 +350,7 @@ text-align: justify}
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -361,6 +358,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

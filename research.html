@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -33,6 +33,15 @@
 
   gtag('config', 'UA-128266466-1');
 </script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -79,6 +88,7 @@ h6 {
 }
 </style>
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -95,7 +105,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -244,6 +253,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -255,18 +265,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -298,23 +296,20 @@ $(document).ready(function () {
         <li>
   <a href="research.html">Research</a>
 </li>
+<li>
+  <a href="files/CV Graff.pdf">CV</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:tgraff@princeton.edu">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/TilmanGraff">
-    <span class="fa fa-twitter fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="http://github.com/tilmangraff">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-twitter fa-lg"></span>
      
   </a>
 </li>
@@ -337,7 +332,7 @@ $(document).ready(function () {
 body {
 text-align: justify}
 </style>
-<p><br> 1. Graff (2019). <a href="files/Graff%202019.pdf"><strong>Spatial Inefficiencies in Africa’s Trade Network</strong>.</a> <em>NBER Working Paper #25951</em> <br> I assess the effciency of transport networks for every country in Africa. Using rich spatial data, I simulate trade flows over more than 70,000 links covering the entire continent. I maximise over the space of networks and find the optimal road system for every African state. My simulations predict that Africa would gain 1.1% of total welfare from better organising its national road systems. I then construct a novel dataset of local network ineffciency and I find that colonial infrastructure projects significantly skew trade networks towards a sub-optimal equilibrium. I also find evidence for regional favouritism and ineffcient aid provision. <br><br> 2. Graff and Haushofer (2019). <strong>Psychological well-being is related to income, not inequality</strong>. <em>Under Review</em> <br><br> 3. Egger and Graff (2019). <strong>iv_spatial_HAC</strong>. <br> Stata package to compute Conley-type standard errors in 2SLS-settings. <em>Available upon request</em>.</p>
+<p><br> <font size="5">Publications</font> <br> 1.Egger, Miguel, Warren, Shenoy, Collins, Karlan, Parkerson, Mobarak, Fink, Udry, Walker, Haushofer, Larreboure, Athey, Lopez-Pena, Benhachmi, Humphreys, Lowe, Meriggi, Wabwire, Davis, Pape, Graff, Voors, Nekesa, Vernot (2021). <strong>Falling Living Standards during the COVID-19 Crisis: Quantitative Evidence from Nine Developing Countries</strong>. <em>Science Advances</em> <br><br> <font size="5">Working Papers</font> <br> 1. Graff (2019). <a href="files/Graff%202019.pdf"><strong>Spatial Inefficiencies in Africa’s Trade Network</strong>.</a> <em>NBER Working Paper #25951</em> <br> I assess the effciency of transport networks for every country in Africa. Using rich spatial data, I simulate trade flows over more than 70,000 links covering the entire continent. I maximise over the space of networks and find the optimal road system for every African state. My simulations predict that Africa would gain 1.1% of total welfare from better organising its national road systems. I then construct a novel dataset of local network ineffciency and I find that colonial infrastructure projects significantly skew trade networks towards a sub-optimal equilibrium. I also find evidence for regional favouritism and ineffcient aid provision. <br><br> 2. Graff and Haushofer (2019). <strong>Psychological well-being is related to income, not inequality</strong>. <em>Under Review</em> <br><br> 3. Egger and Graff (2019). <strong>iv_spatial_HAC</strong>. <br> Stata package to compute Conley-type standard errors in 2SLS-settings. <em>Available upon request</em>.</p>
 
 
 
@@ -348,7 +343,7 @@ text-align: justify}
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -356,6 +351,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

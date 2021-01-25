@@ -5,13 +5,13 @@ navbar:
   left:
     - text: "Research"
       href: research.html
+    - text: "CV"
+      href: files/CV Graff.pdf
   right:
     - icon: fa-envelope fa-lg
       href: mailto:tgraff@princeton.edu
     - icon: fa-twitter fa-lg
       href: https://twitter.com/TilmanGraff
-    - icon: fa-github fa-lg
-      href: http://github.com/tilmangraff
 output:
   html_document:
     theme: simplex
