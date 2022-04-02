@@ -42,7 +42,7 @@ I am a PhD student in Economics at Harvard.
 
 Prior to grad school, I spent two years in Nairobi as a research specialist at the Busara Center. I hold an MPhil. in Economics at the University of Oxford, a Bsc. in Economics from LMU Munich, and a Bsc. in Management and Technology from TU Munich.
 
-I am interested in the effects of space on economic networks, development, and trade. I want to understand how human geography and history shape the spatial distribution of economic activity, how microeconomic exchange aggregates into global trade systems, and why Nairobi’s traffic gets so much worse in rainy season.
+I am interested in the effects of space on economic networks, development, and trade. I want to understand how human geography and history shape the spatial distribution of economic activity, how microeconomic exchange aggregates into global trade systems, and why Nairobi’s traffic gets so much worse in rainy season..
 
 I love coding (mostly in Julia and R) and visualising patterns in large datasets. Other things I am enthusiastic about include investigative journalism, modern art, and mediocre rowing.
 
