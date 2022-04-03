@@ -5,7 +5,7 @@ description = "Use the website builder to easily build your site with 50+ widget
 homepage = "https://github.com/wowchemy/starter-hugo-academic/"
 relativeURLs = true
 uglyURLs = true
-publishDir = "docs"
+publishDir = "/Users/tilmangraff/Documents/GitHub/tilmangraff.github.io/docs"
 
 demosite = "https://wowchemy.com/templates/"
 min_version = "0.84"

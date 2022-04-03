@@ -7,6 +7,7 @@ title: Tilman Graff # Website name
 baseURL: '' # Website URL
 relativeURLs: true
 uglyURLs: true
+publishDir: 'docs'
 
 ############################
 ## LANGUAGE
