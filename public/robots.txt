@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://tilmangraff.github.io/sitemap.xml

@@ -4,7 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Tilman Graff # Website name
-baseURL: 'https://tilmangraff.github.io/' # Website URL
+baseURL: '' # Website URL
+relativeURLs: true
+uglyURLs: true
 
 ############################
 ## LANGUAGE
@@ -27,7 +29,6 @@ module:
 ############################
 ## ADVANCED
 ############################
-canonifyurls: true
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
