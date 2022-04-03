@@ -44,6 +44,6 @@ Prior to grad school, I spent two years in Nairobi as a research specialist at t
 
 I am interested in the effects of space on economic networks, development, and trade. I want to understand how human geography and history shape the spatial distribution of economic activity, how microeconomic exchange aggregates into global trade systems, and why Nairobi’s traffic gets so much worse in rainy season.
 
-I love coding (mostly in Julia, Python, and R) and visualising patterns in large datasets. Other things I am enthusiastic about include investigative journalism, modern art, and mediocre rowing.
+I love coding (mostly in Julia and R) and visualising patterns in large datasets. Other things I am enthusiastic about include investigative journalism, modern art, and mediocre rowing.
 
 You can find {{< staticref "uploads/CV_Graff.pdf" "newtab" >}}my CV here{{< /staticref >}}.
