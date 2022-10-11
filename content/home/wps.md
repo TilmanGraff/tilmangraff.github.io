@@ -20,4 +20,4 @@ design:
 ---
 
 - Optimal Public Transportation Networks: Evidence from the World's Largest Bus Rapid Transit System in Jakarta - 2022 (with Arya Gaduh, Rema Hanna, Gabriel Kreindler, and Ben Olken)
-- {{< staticref "/uploads/papers/Graff2019.pdf" "newtab" >}}Spatial Inefficiencies in Africa's Trade Network{{< /staticref >}} - 2019, _NBER Working Paper #25951_
+- {{< staticref "/uploads/papers/Spatial_Inefficiencies.pdf" "newtab" >}}Spatial Inefficiencies in Africa's Trade Network{{< /staticref >}} - 2022, _NBER Working Paper #25951_
