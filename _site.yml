@@ -1,5 +1,8 @@
 name: "my-website"
+<<<<<<< HEAD
 output-dir: "docs"
+=======
+>>>>>>> 050f9aa6200b24fd38110c9f28b04004059e021b
 # navbar:
 #   title: "My Website"
 #   left:
@@ -13,4 +16,8 @@ output:
     # highlight: textmate
     # include:
     #   after_body: footer.html
+<<<<<<< HEAD
     css: styles.css
+=======
+    css: styles.css
+>>>>>>> 050f9aa6200b24fd38110c9f28b04004059e021b
