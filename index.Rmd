@@ -1,0 +1,24 @@
+---
+title: ""
+---
+<div style="margin-bottom:100px;">
+</div>
+# Tilman Graff ![image alt <](media/avatar.JPG)
+<div style="margin-bottom:80px;">
+</div>
+I am a PhD student in Economics at Harvard.
+
+In my research, I study issues in trade, macro, networks, and development.
+
+You can find my [CV here](docs/CV_Graff.pdf).
+
+<div style="margin-bottom:50px;">
+</div>
+## Working Papers
+1. [Spatial Inefficiencies in Africa's Trade Network](docs/papers/Graff2022.pdf) - 2022, _NBER Working Paper #25951_
+2. Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta - 2022 (with Arya Gaduh, Rema Hanna, Gabriel Kreindler, and Ben Olken)
+
+<div style="margin-bottom:50px;">
+</div>
+## Publication
+1. [Falling Living Standards during the COVID-19 Crisis: Quantitative Evidence from Nine Developing Countries](docs/papers/Egger2021.pdf) - 2021 (with Egger, Miguel, Warren, Shenoy, Collins, Karlan, Parkerson, Mobarak, Fink, Udry, Walker, Haushofer, Larreboure, Athey, Lopez-Pena, Benhachmi, Humphreys, Lowe, Meriggi, Wabwire, Davis, Pape, Voors, Nekesa, Vernot), _Science Advances 7(6)_
