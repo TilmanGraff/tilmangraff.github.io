@@ -1,0 +1,46 @@
+h1,
+h2,
+h3,
+p,
+ol{
+  font-family: "Arial Unicode MS", sans-serif;
+  color: #540854;
+  text-align: justify;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+p,
+ol,
+a{
+  font-size: 20px;
+}
+
+ol{
+  padding-left: 0px;
+}
+li{
+  padding-bottom:10px;
+}
+
+
+img[alt$="<"] {
+  float: right;
+  max-width: 35%;
+  margin-left: 70px;
+}
+
+body {
+  background-color: #fcfafc;
+}
+
+a{
+  font-family: "Arial Unicode MS", sans-serif;
+  color: #3e57c7;
+}
+
+.title {
+    display: none;
+}
