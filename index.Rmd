@@ -16,14 +16,14 @@ You can find my [CV here](uploads/CV_Graff.pdf).
 <div style="margin-bottom:50px;">
 </div>
 ## Working Papers
-1. [Spatial Inefficiencies in Africa's Trade Network](uploads/papers/Graff2022.pdf) - 2022. <font size="3" style="color:#3e57c7"> _Revise and resubmit, Journal of Development Economics_ </font>
+1. [Spatial Inefficiencies in Africa's Trade Network](uploads/papers/Graff2022.pdf) - 2022. <font style="color:#3e57c7"> _Revise and resubmit, Journal of Development Economics_ </font>
 2. Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta - 2022 (with Arya Gaduh, Rema Hanna, Gabriel Kreindler, and Ben Olken)
 
 <div style="margin-bottom:50px;">
 
 </div>
 ## Publication
-1. [Falling Living Standards during the COVID-19 Crisis: Quantitative Evidence from Nine Developing Countries](uploads/papers/Egger2021.pdf) - 2021 (with Egger, Miguel, Warren, Shenoy, Collins, Karlan, Parkerson, Mobarak, Fink, Udry, Walker, Haushofer, Larreboure, Athey, Lopez-Pena, Benhachmi, Humphreys, Lowe, Meriggi, Wabwire, Davis, Pape, Voors, Nekesa, Vernot), <font style = "color:#3e57c7"> _Science Advances 7(6)_ </font>
+1. [Falling Living Standards during the COVID-19 Crisis: Quantitative Evidence from Nine Developing Countries](uploads/papers/Egger2021.pdf) - 2021 (with Egger, Miguel, Warren, Shenoy, Collins, Karlan, Parkerson, Mobarak, Fink, Udry, Walker, Haushofer, Larreboure, Athey, Lopez-Pena, Benhachmi, Humphreys, Lowe, Meriggi, Wabwire, Davis, Pape, Voors, Nekesa, Vernot), <font style = "color:#3e57c7"> _Science Advances_ </font> 7(6)
 
 
 
