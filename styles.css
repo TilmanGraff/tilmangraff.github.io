@@ -38,8 +38,30 @@ body {
 
 a{
   font-family: "Arial Unicode MS", sans-serif;
-  color: #3e57c7;
+  color: #540854;
+  text-decoration: underline;
 }
 .title{
   display: none;
+}
+a:hover {
+  color: #12020f;
+}
+
+details { 
+  display: block;
+  font-size: 10px;
+}
+details > summary {
+    list-style-type: '️+';
+}
+
+details[open] > summary {
+    list-style-type: '+';
+}
+pdet{
+  font-size: 10px;
+  font-family: "Arial Unicode MS", sans-serif;
+  color: #540854;
+  text-align: justify;
 }
