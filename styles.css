@@ -44,6 +44,7 @@ a{
 .title{
   display: none;
 }
+
 a:hover {
   color: #12020f;
 }

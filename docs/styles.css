@@ -44,7 +44,11 @@ a{
 .title{
   display: none;
 }
+<<<<<<< HEAD
 a:hover {
+=======
+a:visited, a:hover {
+>>>>>>> 7c632aab2a060ed38f1d8b165d8cec1dffdfc92b
   color: #12020f;
 }
 
