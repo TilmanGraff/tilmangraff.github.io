@@ -17,7 +17,7 @@ You can find my [CV here](uploads/CV_Graff.pdf).
 </div>
 ## Working Papers
 1. [Spatial Inefficiencies in Africa's Trade Network](uploads/papers/Graff2022.pdf) - 2022. <font size = "3" style="color:#3e57c7"> _Revise and resubmit, Journal of Development Economics_ </font>
-2. Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta - 2022 (with Arya Gaduh, Rema Hanna, Gabriel Kreindler, and Ben Olken)
+2. [Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta](uploads/papers/TJ_Optimal_Networks_Paper_MS.pdf) - 2023 (with Gabriel Kreindler, Arya Gaduh, Rema Hanna, and Ben Olken) -- [(appendix)](uploads/papers/TJ_Optimal_Networks_Paper_Appendix.pdf)
 
 <div style="margin-bottom:50px;">
 
