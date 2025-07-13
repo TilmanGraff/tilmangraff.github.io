@@ -1,68 +1,103 @@
-h1,
-h2,
-h3,
-p,
-ol{
-  font-family: "Arial Unicode MS", sans-serif;
-  color: #540854;
-  text-align: justify;
-}
-
-h1 {
-  font-size: 55px;
-}
-
-p,
-ol,
-a{
-  font-size: 20px;
-}
-
-ol{
-  padding-left: 0px;
-}
-li{
-  padding-bottom:10px;
-}
-
-
-img[alt$="<"] {
-  float: right;
-  max-width: 35%;
-  margin-left: 70px;
-}
+/* Import Inter font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
 
 body {
-  background-color: #fcfafc;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+  color: #222;
+}
+html {
+  background: #ffffff;
+}
+/* Overall layout */
+.container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  gap: 2rem;
 }
 
-a{
-  font-family: "Arial Unicode MS", sans-serif;
-  color: #540854;
+/* Sidebar styling */
+.sidebar {
+  flex: 0 0 280px;
+  padding: 2rem;
+  border-right: 1px solid #ffffff;
+  position: static;
+  height: fit-content;
+  background: none;
+  box-shadow: none;
+}
+
+.sidebar img {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 0;
+  display: block;
+}
+
+.sidebar .name {
+  font: inherit;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Main content area */
+.main {
+  flex: 1;
+  padding-bottom: 5rem;
+  max-width: 720px;  /* ⬅️ new */
+  margin-top: 1.0rem;  /* 👈 Add this */
+}
+
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Abstract toggle link */
+a.abstract-toggle {
+  all: unset;
+  font: inherit;
+  color: #000000;
+  cursor: pointer;
+}
+
+.abstract-toggle:hover {
   text-decoration: underline;
 }
-.title{
+
+/* Abstract content */
+.abstract-content {
   display: none;
+  margin-top: 0.5rem;
+  font: inherit;
+  color: #444;
+  line-height: 1.2;
+  text-decoration: italic;
+}
+
+.abstract-content.show {
+  display: block;
+}
+
+/* Links */
+a {
+  color: #000000;
+  text-decoration: none;
 }
 
 a:hover {
-  color: #12020f;
+  text-decoration: underline;
 }
 
-details { 
-  display: block;
-  font-size: 10px;
-}
-details > summary {
-    list-style-type: '️+';
-}
-
-details[open] > summary {
-    list-style-type: '+';
-}
-pdet{
-  font-size: 10px;
-  font-family: "Arial Unicode MS", sans-serif;
-  color: #540854;
-  text-align: justify;
+div.main h3 {
+  font-size: 1.25rem !important;
+  font-weight: 600 !important;
+  margin-top: 2rem !important;
+  margin-bottom: 1rem !important;
+  line-height: 1.5 !important;
+  color: #111 !important;
 }

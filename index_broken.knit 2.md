@@ -1,0 +1,29 @@
+---
+title: "Tilman Graff"
+hidetitle: true
+---
+<div style="margin-bottom:100px;">
+</div>
+# Tilman Graff ![image alt <](media/avatar.JPG)
+<div style="margin-bottom:80px;">
+</div>
+I am a PhD student in Economics at Harvard.
+
+In my research, I study issues in macro and development economics.
+
+You can find my [CV here](uploads/CV_Graff.pdf).
+
+<div style="margin-bottom:50px;">
+</div>
+## Working Papers
+1. [Slack and Economic Development](uploads/papers/Slack2024.pdf) - 2024 (with Michael Walker, Nachiket Shah, Edward Miguel, Dennis Egger, and Felix Samy Soliman)
+1. [Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta](uploads/papers/TJ_Optimal_Networks_Paper_MS.pdf) - 2023 (with Gabriel Kreindler, Arya Gaduh, Rema Hanna, and Ben Olken) -- [(appendix)](uploads/papers/TJ_Optimal_Networks_Paper_Appendix.pdf)  <font size = "3" style="color:#3e57c7"> _conditionally accepted, American Economic Review_ </font>
+<div style="margin-bottom:50px;">
+
+</div>
+## Publications
+1. [Spatial Inefficiencies in Africa's Trade Network](uploads/papers/Graff2024.pdf) - 2024 [(appendix)](uploads/papers/Graff2024_Appendix.pdf). <font style="color:#3e57c7"> _Journal of Development Economics_ </font> 171
+1. [Falling Living Standards during the COVID-19 Crisis: Quantitative Evidence from Nine Developing Countries](uploads/papers/Egger2021.pdf) - 2021 (with Egger, Miguel, Warren, Shenoy, Collins, Karlan, Parkerson, Mobarak, Fink, Udry, Walker, Haushofer, Larreboure, Athey, Lopez-Pena, Benhachmi, Humphreys, Lowe, Meriggi, Wabwire, Davis, Pape, Voors, Nekesa, Vernot), <font style = "color:#3e57c7"> _Science Advances_ </font> 7(6)
+
+
+
