@@ -1,5 +1,6 @@
 name: "my-website"
 output_dir: "docs"
+title: "Tilman Graff"
 # navbar:
 #   title: "My Website"
 #   left:
