@@ -11,6 +11,9 @@ body {
 html {
   background: #ffffff;
 }
+h1.title {
+  display: none;
+}
 /* Overall layout */
 .container {
   display: flex;

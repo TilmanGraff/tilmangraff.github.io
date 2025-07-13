@@ -1,5 +1,10 @@
 ---
-output: html_document
+title: "Tilman Graff"
+output:
+  html_document:
+    css: styles.css
+    self_contained: false
+    theme: null
 ---
 
 <div class="container">
