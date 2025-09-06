@@ -104,3 +104,36 @@ div.main h3 {
   line-height: 1.5 !important;
   color: #111 !important;
 }
+
+@media screen and (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    padding: 1rem;
+  }
+
+  .sidebar {
+    border-right: none;
+    width: 100%;
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+  }
+
+  .main {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-size: 1rem;
+  }
+
+  .abstract-toggle {
+    font-size: 1rem;
+  }
+
+  .abstract-content {
+    font-size: 1rem;
+  }
+}
