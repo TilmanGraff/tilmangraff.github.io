@@ -15,7 +15,7 @@ invisible(cat("
   <img src='media/Tilman Graff-250822-0097 cropped.JPG' alt='Tilman Graff' />
   <div class='name'>Tilman Graff</div>
   <p>PhD student in Economics at Harvard</p>
-  <p><a href='uploads/CV_Graff.pdf'>CV</a></p>
+  <p><a href='uploads/TilmanGraffCV.pdf'>CV</a></p>
   <p><a href='mailto:tgraff@g.harvard.edu'>tgraff@g.harvard.edu</a></p>
 </div>
 "))
@@ -25,14 +25,28 @@ invisible(cat("
 
 I am a PhD student in Economics at Harvard.
 
-In my research, I study issues in macro and development economics.
+I research issues in development economics with an emphasis on their macroeconomic implications.
+
+**I am on the 2025-2026 job market.**
+
+
+### Job Market Paper
+
+**Depreciation and Growth: Evidence from Machine Repair in Uganda**, 2025  
+PDF coming soon | <a href="#" class="abstract-toggle">Abstract</a><br>
+
+<div class="abstract-content">
+Capital depreciation undoes economic growth, yet little is known about whether it is different in developing countries and why. I study the market for machine repair in Uganda using detailed field data I collected and a general equilibrium spatial growth model with endogenous depreciation. I first document that the cost of machinery upkeep in Uganda is around twice as high as in the US, severely throttling investment and growth. These costs are highest for small and remote firms, which is attributed to scale effects: repair is expensive if it is hardly ever needed. To understand these findings and quantify their macroeconomic importance for economic development, I build a growth model in which capital breaks occasionally and the process by which it is repaired endogenizes the aggregate depreciation rate of the economy. The model proposes a new microfoundation for scale effects in the repair market based on unpredictable demand and can account for 7-9% of the variation in income between Ugandan regions when calibrated using rich survey and administrative data. I simulate and discuss the effects of counterfactual trade, development, and labor market policies aimed at increasing capital investment. Finally, I argue that ignoring endogenous depreciation leads to mismeasurement of global capital stocks. My proposed correction suggests that the world's poorest countries have on average 19% less capital than conventionally measured, increasing the importance of capital in development accounting by about a quarter.
+</div>
+
 
 ### Working Papers
 
-**Slack and Economic Development**, 2024  
+**Slack and Economic Development**, 2025  
 (with Michael Walker, Nachiket Shah, Edward Miguel, Dennis Egger, and Felix Samy Soliman)  
-[PDF](uploads/papers/Slack2024.pdf) |
-<a href="#" class="abstract-toggle">Abstract</a>
+[PDF](uploads/papers/Slack2025.pdf) |
+<a href="#" class="abstract-toggle">Abstract</a><br>
+<span style="color:#3e57c7;"><em>reject and resubmit, Journal of Political Economy</em></span>
 
 <div class="abstract-content">
 Slack -- the underutilization of factors of production -- varies systematically with economic development. Using novel firm-level measures from Kenya, we show that utilization is increasing in firm size and market access. We present a model where indivisibility of inputs leads to endogenous steady-state slack and elastic aggregate supply. We empirically validate model predictions against the general equilibrium effects of cash transfers from a large-scale RCT. Consistent with the evidence, the calibrated model predicts a real multiplier of 1.6 and limited inflation. The findings suggest that input indivisibilities and slack are quantitatively important for macroeconomic dynamics in developing countries.
