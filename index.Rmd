@@ -32,11 +32,11 @@ I research issues in development economics with an emphasis on their macroeconom
 
 ### Job Market Paper
 
-**Depreciation and Growth: Evidence from Machine Repair in Uganda**, 2025  
-PDF coming soon | <a href="#" class="abstract-toggle">Abstract</a><br>
+**[Depreciation and Growth: Evidence from Machine Repair in Uganda](uploads/papers/Graff_JMP.pdf)**, 2025  
+[PDF](uploads/papers/Graff_JMP.pdf) | <a href="#" class="abstract-toggle">Abstract</a><br>
 
 <div class="abstract-content">
-Capital depreciation undoes economic growth, yet little is known about whether it is different in developing countries and why. I study the market for machine repair in Uganda using detailed field data I collected and a general equilibrium spatial growth model with endogenous depreciation. I first document that the cost of machinery upkeep in Uganda is around twice as high as in the US, severely throttling investment and growth. These costs are highest for small and remote firms, which is attributed to scale effects: repair is expensive if it is hardly ever needed. To understand these findings and quantify their macroeconomic importance for economic development, I build a growth model in which capital breaks occasionally and the process by which it is repaired endogenizes the aggregate depreciation rate of the economy. The model proposes a new microfoundation for scale effects in the repair market based on unpredictable demand and can account for 7-9% of the variation in income between Ugandan regions when calibrated using rich survey and administrative data. I simulate and discuss the effects of counterfactual trade, development, and labor market policies aimed at increasing capital investment. Finally, I argue that ignoring endogenous depreciation leads to mismeasurement of global capital stocks. My proposed correction suggests that the world's poorest countries have on average 19% less capital than conventionally measured, increasing the importance of capital in development accounting by about a quarter.
+Capital depreciation undoes economic growth, yet little is known about whether it is different in developing countries and why. I study the market for machine repair in Uganda using detailed field data I collected and a spatial growth model with endogenous depreciation. I first document that the cost of machinery upkeep in the sectors I study is around twice as high as in the US, severely throttling investment and growth. These costs are highest for small and remote firms, which is attributed to scale effects: repair is expensive if it is hardly ever needed. To understand these findings and quantify their macroeconomic importance for economic development, I build a growth model in which capital breaks occasionally and the process by which it is repaired endogenizes the aggregate depreciation rate of the economy. The model proposes a new microfoundation for scale effects in the repair market based on unpredictable demand and can account for 7-9% of the variation in income between Ugandan regions when calibrated using rich survey and administrative data. I simulate and discuss the effects of counterfactual trade, development, and labor market policies aimed at increasing capital investment. Finally, I argue that ignoring endogenous depreciation leads to mismeasurement of global capital stocks. A proposed back-of-the-envelope correction suggests low-income countries might have on average 15% less capital than conventionally measured, increasing the importance of capital in development accounting by about a quarter.
 </div>
 
 
@@ -52,10 +52,9 @@ Capital depreciation undoes economic growth, yet little is known about whether i
 Slack -- the underutilization of factors of production -- varies systematically with economic development. Using novel firm-level measures from Kenya, we show that utilization is increasing in firm size and market access. We present a model where indivisibility of inputs leads to endogenous steady-state slack and elastic aggregate supply. We empirically validate model predictions against the general equilibrium effects of cash transfers from a large-scale RCT. Consistent with the evidence, the calibrated model predicts a real multiplier of 1.6 and limited inflation. The findings suggest that input indivisibilities and slack are quantitatively important for macroeconomic dynamics in developing countries.
 </div>
 
-**Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta**, 2024  
+**Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta**, 2025  
 (with Gabriel Kreindler, Arya Gaduh, Rema Hanna, and Ben Olken)  
-[PDF](uploads/papers/TJ_Optimal_Networks_Paper_MS.pdf) | 
-[Appendix](uploads/papers/TJ_Optimal_Networks_Paper_Appendix.pdf) | 
+[PDF](uploads/papers/TJ_Optimal_Networks_Paper_MS.pdf) |
 <a href="#" class="abstract-toggle">Abstract</a>  
 <span style="color:#3e57c7;"><em>conditionally accepted, American Economic Review</em></span>
 
