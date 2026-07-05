@@ -12,7 +12,7 @@ output:
 ```{r, echo=FALSE, results='asis'}
 invisible(cat("
 <div class='sidebar'>
-  <img src='media/Tilman Graff-250822-0097 cropped.JPG' alt='Tilman Graff' />
+  <img src='media/graff_headshot3.JPG' alt='Tilman Graff' />
   <div class='name'>Tilman Graff</div>
   <p>PhD student in Economics at Harvard</p>
   <p><a href='uploads/TilmanGraffCV.pdf'>CV</a></p>
@@ -23,62 +23,59 @@ invisible(cat("
 
 <div class="main">
 
-I am a PhD student in Economics at Harvard.
+Welcome to my website! I am a postdoc at the Research Program for Development Economics at Princeton. In July 2027, I will join the Economics department at Columbia University as an Assistant Professor.
 
-I research issues in development economics with an emphasis on their macroeconomic implications.
-
-I will join the Economics department at Columbia University as an Assistant Professor in July 2027 after a one-year RPDE postdoc at Princeton. 
+My research focuses on issues in development and macroeconomics. Don't hesitate to reach out to chat!
 
 
-### Job Market Paper
+### Working Papers
+
 
 **[Depreciation and Growth: Evidence from Machine Repair in Uganda](uploads/papers/Graff_JMP.pdf)**, 2026  
 [PDF](uploads/papers/Graff_JMP.pdf) | <a href="#" class="abstract-toggle">Abstract</a><br>
-<span style="color:#707082;"><em>2025 NEUDC Distinguished Paper Award</em></span>
 
 <div class="abstract-content">
 Capital depreciation restricts economic growth, yet little is known about whether it is different in developing countries and why. I study the market for machine repair in Uganda using detailed field data I collected and a spatial growth model with endogenous depreciation. I first document that the cost of machinery upkeep in the sectors I study is around twice as high as in the US, throttling investment and growth. These costs are highest for small and remote firms, which I attribute to scale effects: repair is expensive if it is only infrequently demanded. To quantify the macroeconomic implications of these findings, I build a growth model in which capital breaks occasionally and the process by which it is repaired endogenizes the depreciation rate of the economy. The model proposes a microfoundation for scale effects in the repair market based on unpredictable demand and can account for 7-9% of the variation in income between Ugandan regions when calibrated using rich survey and administrative data. I simulate and discuss the effects of counterfactual development policies aimed at increasing capital investment. Finally, I discuss implications of my findings for the measurement of global capital stocks and present back-of-the-envelope estimates suggesting low-income countries might have 15% less capital than conventionally measured.
 </div>
 
 
-### Working Papers
-
-**Slack and Economic Development**, 2025  
+[**Slack and Economic Development**]((uploads/papers/Slack2025.pdf)), 2025  
 (with Michael Walker, Nachiket Shah, Edward Miguel, Dennis Egger, and Felix Samy Soliman)  
 [PDF](uploads/papers/Slack2025.pdf) |
 <a href="#" class="abstract-toggle">Abstract</a><br>
-<span style="color:#3e57c7;"><em>reject and resubmit, Journal of Political Economy</em></span>
+<span style="color:#2a5720;"><em>reject and resubmit, Journal of Political Economy</em></span>
 
 <div class="abstract-content">
 Slack -- the underutilization of factors of production -- varies systematically with economic development. Using novel firm-level measures from Kenya, we show that utilization is increasing in firm size and market access. We present a model where indivisibility of inputs leads to endogenous steady-state slack and elastic aggregate supply. We empirically validate model predictions against the general equilibrium effects of cash transfers from a large-scale RCT. Consistent with the evidence, the calibrated model predicts a real multiplier of 1.6 and limited inflation. The findings suggest that input indivisibilities and slack are quantitatively important for macroeconomic dynamics in developing countries.
 </div>
 
-**Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta**, 2025  
+### Publications
+
+
+[**Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta**](uploads/papers/TJ_Optimal_Networks_Paper_MS.pdf), 2026  
 (with Gabriel Kreindler, Arya Gaduh, Rema Hanna, and Ben Olken)  
 [PDF](uploads/papers/TJ_Optimal_Networks_Paper_MS.pdf) |
 <a href="#" class="abstract-toggle">Abstract</a>  
-<span style="color:#3e57c7;"><em>conditionally accepted, American Economic Review</em></span>
+<span style="color:#2a5720;"><em>forthcoming, American Economic Review</em></span>
 
 <div class="abstract-content">
 Designing public transport networks involves tradeoffs between coverage, service frequency, and direct service. We use the expansion of the bus system in Jakarta, Indonesia, to study these tradeoffs. We analyze how new direct connections, changes in bus travel time, and wait time reductions affect bus ridership and aggregate flows, and estimate a transit network demand model by matching the route launch events. Commuters in Jakarta are 2-4 times more sensitive to wait time than bus time, and inattentive to long routes. We develop a flexible framework to characterize optimal networks. A less concentrated network would increase ridership and commuter welfare.
 </div>
 
-### Publications
-
-**Spatial Inefficiencies in Africa's Trade Network**, 2024  
+[**Spatial Inefficiencies in Africa's Trade Network**]((uploads/papers/Graff2024.pdf)), 2024  
 [PDF](uploads/papers/Graff2024.pdf) | [Appendix](uploads/papers/Graff2024_Appendix.pdf) | 
 <a href="#" class="abstract-toggle">Abstract</a>  
-<span style="color:#3e57c7;"><em>Journal of Development Economics</em></span>
+<span style="color:#2a5720;"><em>Journal of Development Economics</em></span>
 
 <div class="abstract-content">
 I assess the efficiency of transport networks for every country in Africa. Using spatial data from various sources, I simulate trade flows over more than 70,000 links covering the entire continent. I maximise over the space of networks and find the optimal road system for every African state. My simulations predict that Africa would gain 1.3% of total welfare from reorganising its national road systems, and 0.8% from optimally expanding it by a tenth. I then construct a dataset of local net- work inefficiency and find that colonial infrastructure projects significantly skew trade networks towards a sub-optimal equilibrium today. I find suggestive evidence that regional favouritism played a role sustaining these imbalances.
 </div>
 
-**Falling Living Standards during the COVID-19 Crisis**, 2021  
+[**Falling Living Standards during the COVID-19 Crisis**](uploads/papers/Egger2021.pdf), 2021  
 (with Egger, Miguel, Warren, Shenoy, Collins, Karlan, Parkerson, Mobarak, Fink, Udry, Walker, Haushofer, Larreboure, Athey, Lopez-Pena, Benhachmi, Humphreys, Lowe, Meriggi, Wabwire, Davis, Pape, Voors, Nekesa, Vernot)  
 [PDF](uploads/papers/Egger2021.pdf) | 
 <a href="#" class="abstract-toggle">Abstract</a>  
-<span style="color:#3e57c7;"><em>Science Advances</em></span>
+<span style="color:#2a5720;"><em>Science Advances</em></span>
 
 <div class="abstract-content">
 Despite numerous journalistic accounts, systematic quantitative evidence on economic conditions during the ongoing COVID-19 pandemic remains scarce for most low- and middle-income countries, partly due to limitations of official economic statistics in environments with large informal sectors and subsistence agriculture. We assemble evidence from over 30,000 respondents in 16 original household surveys from nine countries in Africa (Burkina Faso, Ghana, Kenya, Rwanda, Sierra Leone), Asia (Bangladesh, Nepal, Philippines), and Latin America (Colombia). We document declines in employment and income in all settings beginning March 2020. The share of households experiencing an income drop ranges from 8 to 87% (median, 68%). Household coping strategies and government assistance were insufficient to sustain precrisis living standards, resulting in widespread food insecurity and dire economic conditions even 3 months into the crisis. We discuss promising policy responses and speculate about the risk of persistent adverse effects, especially among children and other vulnerable groups.
