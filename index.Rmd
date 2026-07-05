@@ -15,7 +15,7 @@ invisible(cat("
   <img src='media/graff_headshot3.JPG' alt='Tilman Graff' />
   <div class='name'>Tilman Graff</div>
   <p>RPDE Postdoc at Princeton</p>
-  <p><a href='uploads/TilmanGraffCV.pdf'>CV</a></p>
+  <p><a href='uploads/CV_Graff-7.pdf'>CV</a></p>
   <p><a href='mailto:tgraff@princeton.edu'>tgraff@princeton.edu</a></p>
 </div>
 "))
