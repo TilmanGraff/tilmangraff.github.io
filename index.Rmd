@@ -39,7 +39,7 @@ Capital depreciation restricts economic growth, yet little is known about whethe
 </div>
 
 
-[**Slack and Economic Development**]((uploads/papers/Slack2025.pdf)), 2025  
+[**Slack and Economic Development**](uploads/papers/Slack2025.pdf), 2025  
 (with Michael Walker, Nachiket Shah, Edward Miguel, Dennis Egger, and Felix Samy Soliman)  
 [PDF](uploads/papers/Slack2025.pdf) |
 <a href="#" class="abstract-toggle">Abstract</a><br>
@@ -62,7 +62,7 @@ Slack -- the underutilization of factors of production -- varies systematically 
 Designing public transport networks involves tradeoffs between coverage, service frequency, and direct service. We use the expansion of the bus system in Jakarta, Indonesia, to study these tradeoffs. We analyze how new direct connections, changes in bus travel time, and wait time reductions affect bus ridership and aggregate flows, and estimate a transit network demand model by matching the route launch events. Commuters in Jakarta are 2-4 times more sensitive to wait time than bus time, and inattentive to long routes. We develop a flexible framework to characterize optimal networks. A less concentrated network would increase ridership and commuter welfare.
 </div>
 
-[**Spatial Inefficiencies in Africa's Trade Network**]((uploads/papers/Graff2024.pdf)), 2024  
+[**Spatial Inefficiencies in Africa's Trade Network**](uploads/papers/Graff2024.pdf), 2024  
 [PDF](uploads/papers/Graff2024.pdf) | [Appendix](uploads/papers/Graff2024_Appendix.pdf) | 
 <a href="#" class="abstract-toggle">Abstract</a>  
 <span style="color:#2a5720;"><em>Journal of Development Economics</em></span>
